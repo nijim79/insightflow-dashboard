@@ -1,4 +1,5 @@
 InsightFlow – Service Health Dashboard
+![InsightFlow dashboard](./insightflow-dashboard.png)
 
 InsightFlow is a lightweight monitoring dashboard that displays the real-time health of internal systems and APIs.
 It includes a Node.js backend that simulates service status and a React frontend that visualizes performance metrics.
